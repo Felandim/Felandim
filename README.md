@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Felandim
 - 👀 I’m interested in coding, in general.
-- 🌱 I’m currently learning Pyhton, Javascript and Bootstrap framework.
+- 🌱 I’m currently learning Javascript and Golang.
 - 💞️ I’m looking to collaborate on Web Scraping projects.
 - 📫 How to reach me: felipe.bosco@usp.br
 
