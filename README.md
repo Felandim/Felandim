@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Felandim
 - 👀 I’m interested in coding, in general.
-- 🌱 I’m currently learning Javascript and Golang.
-- 💞️ I’m looking to collaborate on Web Scraping projects.
+- 🌱 I’m currently improving my SQL, Power BI and Python skills.
+- 💞️ I’m looking to collaborate on Web Scraping anda DataViz projects.
 - 📫 How to reach me: felipe.bosco@usp.br
 
 <!---
