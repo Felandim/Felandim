@@ -5,7 +5,7 @@
 ### <div align="center">I'm Felipe, an Analyst who loves to deal with data 📊📈</div>  
   
 
-- 🔭 Lately I've been working on the [Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  
+- 🔭 Lately I've been working on the [Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
   
 
 - 🌱 Currently improving my SQL and Power BI skills.
