@@ -5,10 +5,10 @@
 ### <div align="center">I'm Felipe, an Analyst who loves to deal with data 📊📈</div>  
   
 
-- 🔭 I’m currently working on the [Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  
+- 🔭 Lately I've been working on the [Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn)  
   
 
-- 🌱 I’m currently improving my SQL and Power BI skills.
+- 🌱 Currently improving my SQL and Power BI skills.
   
 
 - ⚡ Personal preference: tabs over spaces.
