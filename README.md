@@ -1,4 +1,3 @@
-
 ![README cover_cortado](https://github.com/Felandim/Felandim/assets/62677718/d9b9633c-492f-4f42-9787-1a70f436d49d)
 
 
