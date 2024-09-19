@@ -1,7 +1,7 @@
 ![README cover_cortado](https://github.com/Felandim/Felandim/assets/62677718/d9b9633c-492f-4f42-9787-1a70f436d49d)
 
 
-### <div align="center">I'm Felipe, an Analyst who loves to deal with data 📊📈</div>  
+### <div align="center">I'm Felipe, a Data Analyst who loves to deal with data 📊📈</div>  
   
 
 - 🔭 Lately I've been working on the [Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
