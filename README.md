@@ -1,70 +1,45 @@
-![README cover_cortado](https://github.com/Felandim/Felandim/assets/62677718/d9b9633c-492f-4f42-9787-1a70f436d49d)
+# Felipe Landim
 
+**Analista de Políticas de Crédito · Dados, automação e produtos financeiros**
 
-### <div align="center">I'm Felipe, a Data Analyst who loves to deal with data 📊📈</div>  
-  
+Sou formado em Ciências Atuariais pela FEA-USP e trabalho com dados desde 2020. Atualmente atuo com políticas de crédito para cartão no banco BV, depois de experiências em produto financeiro, saúde suplementar, previdência e atuária.
 
-- 🔭 Lately I've been working on the [Customer Churn Dataset](https://www.kaggle.com/datasets/blastchar/telco-customer-churn).
-  
+Gosto de projetos que conectam uma pergunta real a dados públicos e a algo que outras pessoas consigam usar. Por isso, meus projetos pessoais costumam misturar análise, automação e visualização — muitas vezes com futebol.
 
-- 🌱 Currently improving my Javascript and Python (front-end) skills.
-  
+<p>
+  <a href="https://felandim.github.io/">
+    <img alt="Portfólio" src="https://img.shields.io/badge/Portfólio-0F172A?style=for-the-badge&logo=githubpages&logoColor=white">
+  </a>
+  <a href="https://www.linkedin.com/in/landimfelipe/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="mailto:landimdb@gmail.com">
+    <img alt="E-mail" src="https://img.shields.io/badge/E--mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
 
-- ⚡ Personal preference: tabs over spaces.
-  
+## Projetos em destaque
 
-<br/>  
+| Projeto | O que ele mostra |
+|---|---|
+| **[Rodada a Rodada](https://felandim.github.io/)** | Produto de dados sobre o Brasileirão 2026, com evolução da classificação, artilharia, comparação entre times e páginas por rodada. |
+| **[Pipeline de dados de futebol](https://felandim.github.io/dados-futebol.html)** | Coleta, tratamento e publicação automática de 864 partidas em três competições por meio do GitHub Actions. |
+| **[Inflação no SIDRA](https://felandim.github.io/docs/sidra_dashboard/)** | Série histórica do IPCA apresentada em uma visualização interativa com dados públicos do IBGE. |
+| **[Mapa global de emissões](https://felandim.github.io/projec-index.html)** | Comparação de emissões de CO₂ per capita por país e ano em uma interface construída com D3.js. |
 
+[Ver todos os projetos →](https://felandim.github.io/projetos.html)
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## Stack principal
 
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white">
+  <img alt="Databricks" src="https://img.shields.io/badge/Databricks-FF3621?style=flat-square&logo=databricks&logoColor=white">
+  <img alt="Power BI" src="https://img.shields.io/badge/Power_BI-F2C811?style=flat-square&logo=powerbi&logoColor=111111">
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white">
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white">
+</p>
 
+## Trajetória
 
-</td><td valign="top" width="33%">
-
-
-
-### tech stack  
-<div align="center">  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power Bi" height="50" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/Felandim" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/landimfelipe" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-
-<br/>  
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=Felandim&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-<!---
-Felandim/Felandim is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Minha experiência profissional passa por banco BV, will bank, PicPay, SulAmérica, Fundação Itaú Unibanco e consultoria atuarial. O histórico completo está na minha [página Sobre](https://felandim.github.io/about.html) e no [LinkedIn](https://www.linkedin.com/in/landimfelipe/).
