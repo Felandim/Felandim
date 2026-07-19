@@ -1,6 +1,6 @@
 # Felipe Landim
 
-**Analista de Políticas de Crédito · Dados, automação e produtos financeiros**
+**Analista de Políticas de Crédito**
 
 Sou formado em Ciências Atuariais pela FEA-USP e trabalho com dados desde 2020. Atualmente atuo com políticas de crédito para cartão no banco BV, depois de experiências em produto financeiro, saúde suplementar, previdência e atuária.
 
