@@ -4,7 +4,7 @@
 
 Sou formado em Ciências Atuariais pela FEA-USP e trabalho com dados desde 2020. Atualmente atuo com políticas de crédito para cartão no banco BV, depois de experiências em produto financeiro, saúde suplementar, previdência e atuária.
 
-Gosto de projetos que conectam uma pergunta real a dados públicos e a algo que outras pessoas consigam usar. Por isso, meus projetos pessoais costumam misturar análise, automação e visualização — muitas vezes com futebol.
+Gosto de projetos que conectam uma pergunta real a dados públicos e a algo que outras pessoas consigam usar. Por isso, meus projetos pessoais costumam misturar análise, automação e visualização. Às vezes com futebol.
 
 <p>
   <a href="https://felandim.github.io/">
